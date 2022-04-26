@@ -1,0 +1,38 @@
+
+body{
+    background-color: #f1efec;
+    min-height: 100vh;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+table{
+    border-spacing: 2px;
+   
+}
+
+.titulo
+{
+    color: black;
+    text-align: center;    
+    font-weight:bold;
+}
+
+.persona{
+
+    color: #3f868d;
+    text-align: center; 
+    border-spacing: none;
+}
+
+
+hr
+{   
+    border: none;
+    border-top: 3px dotted;
+    color: #417D7A;
+    padding: 1px;
+    
+
+
+}
